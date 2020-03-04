@@ -1,5 +1,5 @@
 {
-  "tenantId": "uk.haldwani",
+  "tenantId": "uk.testing",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,18 +10,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Haldwani",
-        "localname": "Haldwani",
+        "name": "Testing",
+        "localname": "Testing",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "uk.haldwani",
+        "code": "uk.testing",
         "children": [
           {
             "id": "00126ad0-9dc5-4523-9bce-abe1c1ce8f8e",
             "boundaryNum": 1,
-            "name": "Haldwani",
-            "localname": "Haldwani",
+            "name": "Testing",
+            "localname": "Testing",
             "longitude": null,
             "latitude": null,
             "label": "Zone",
@@ -148,8 +148,8 @@
                   {
                     "id": "01bc8158-8a44-466c-a434-c2ce007f2a1b",
                     "boundaryNum": 1,
-                    "name": "Ambedkar Nagar Haldwani - Ward No. 1",
-                    "localname": "Ambedkar Nagar Haldwani - Ward No. 1",
+                    "name": "Ambedkar Nagar Tetsing - Ward No. 1",
+                    "localname": "Ambedkar Nagar Tetsing - Ward No. 1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2524,8 +2524,8 @@
                   {
                     "id": "b96dae12-c4ea-44b2-9356-2c7e72184a1a",
                     "boundaryNum": 1,
-                    "name": "Badripura Haldwani - Ward No. 10",
-                    "localname": "Badripura Haldwani - Ward No. 10",
+                    "name": "Badripura Tetsing - Ward No. 10",
+                    "localname": "Badripura Tetsing - Ward No. 10",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2536,8 +2536,8 @@
                   {
                     "id": "5e1f57b8-e4e6-4010-aec0-804156006435",
                     "boundaryNum": 1,
-                    "name": "Pandey Niwas Badripura Haldwani - Ward No. 10",
-                    "localname": "Pandey Niwas Badripura Haldwani - Ward No. 10",
+                    "name": "Pandey Niwas Badripura Tetsing - Ward No. 10",
+                    "localname": "Pandey Niwas Badripura Tetsing - Ward No. 10",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2548,8 +2548,8 @@
                   {
                     "id": "18760544-12d0-4a4b-a778-4f02d3a64807",
                     "boundaryNum": 1,
-                    "name": "Badripura Haldwani Talla Gorakhpur - Ward No. 10",
-                    "localname": "Badripura Haldwani Talla Gorakhpur - Ward No. 10",
+                    "name": "Badripura Tetsing Talla Gorakhpur - Ward No. 10",
+                    "localname": "Badripura Tetsing Talla Gorakhpur - Ward No. 10",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -4000,8 +4000,8 @@
                   {
                     "id": "b01fedd2-54a8-473c-97fb-0e7d7fc803b7",
                     "boundaryNum": 1,
-                    "name": "Molana Abdul Kalam Azad Nagar Haldwani - Ward No. 18",
-                    "localname": "Molana Abdul Kalam Azad Nagar Haldwani - Ward No. 18",
+                    "name": "Molana Abdul Kalam Azad Nagar Tetsing - Ward No. 18",
+                    "localname": "Molana Abdul Kalam Azad Nagar Tetsing - Ward No. 18",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -5128,8 +5128,8 @@
                   {
                     "id": "c6bbac5b-7cdd-40bc-8341-0ba4e271aa6e",
                     "boundaryNum": 1,
-                    "name": "Haldwani Talli Manpur North - Ward No. 57",
-                    "localname": "Haldwani Talli Manpur North - Ward No. 57",
+                    "name": "Tetsing Talli Manpur North - Ward No. 57",
+                    "localname": "Tetsing Talli Manpur North - Ward No. 57",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -5152,8 +5152,8 @@
                   {
                     "id": "7ae6773c-f69b-408a-b2c5-889e856fecbd",
                     "boundaryNum": 1,
-                    "name": "Haldwani Talli - Ward No. 58",
-                    "localname": "Haldwani Talli - Ward No. 58",
+                    "name": "Tetsing Talli - Ward No. 58",
+                    "localname": "Tetsing Talli - Ward No. 58",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
