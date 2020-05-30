@@ -1,5 +1,5 @@
 {
-    "tenantId": "uk",
+    "tenantId": "cb",
     "moduleName": "common-masters",
     "IdFormat": [{
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
