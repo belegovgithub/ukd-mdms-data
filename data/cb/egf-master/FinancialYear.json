@@ -1,10 +1,10 @@
 {
-  "tenantId": "cb",
+  "tenantId": "cb.secunderabad",
   "moduleName": "egf-master",
   "FinancialYear": [
     {
       "id": "10",
-      "tenantId": "cb",
+      "tenantId": "cb.secunderabad",
       "finYearRange": "2020-21",
       "name": "2020-21",
       "code": "2020-21",
