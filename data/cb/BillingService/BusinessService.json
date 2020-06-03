@@ -806,6 +806,20 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
+    },
+    {
+      "businessService": "TEST.DELETE",
+      "code": "TEST.DELETE",
+      "collectionModesNotAllowed": [
+        "CREDIT",
+        "DEBIT",
+        "CARD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
     }
   ]
 }
