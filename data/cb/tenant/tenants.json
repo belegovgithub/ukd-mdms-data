@@ -1,0 +1,167 @@
+{
+  "tenantId": "cb",
+  "moduleName": "tenant",
+  "tenants": [
+    {
+      "code": "cb.agra",
+      "name": "Cantonment Board Agra",
+      "description": "Agra",
+      "logoId": "https://uttarakhand-uat.egovernments.org/ukd-egov-assets/cb.dehradun/logo.png",
+      "imageId": null,
+      "domainUrl": "https://cbagra.org.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "ceoagra-stats@nic.in",
+      "OfficeTimings": {
+        
+      },
+      "city": {
+        "name": "Agra",
+        "localName": "Agra Cantt",
+        "districtCode": "118",
+        "districtName": "AGRA",
+        "regionName": "Central Command",
+        "ulbGrade": "Cantonment Board",
+        "longitude": 77.990784,
+        "latitude":  27.15894,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "277255",
+        "regionCode": "4",
+        "municipalityName": "Agra Cantonment Board",
+        "population":"53137"
+      },
+      "address": "Office of Cantt. Board Agra 114- Fatehpur Sikri Road, Agra Cantt. – 282001 Uttar Pradesh",
+      "contactNumber": "0562-2227379"
+    },
+    {
+      "code": "cb.delhi",
+      "name": "Cantonment Board Delhi",
+      "description": "Delhi",
+      "logoId": "https://cbdelhi.in/website/common/images/logo.gif",
+      "imageId": null,
+      "domainUrl": "https://cbdelhi.in/",
+      "type": "CITY",
+      "twitterUrl": "https://twitter.com/ceo_delhi",
+      "facebookUrl":" https://web.facebook.com/Delhi-Cantonment-Board-1631341707194108/?skip_nax_wizard=true",
+      "emailId": "ceodelh-stats@nic.in",
+      "OfficeTimings": {
+      },
+      "city": {
+        "name": "Delhi",
+        "localName": "Delhi Cantt",
+        "districtCode": "79",
+        "districtName": "New Delhi",
+        "regionName": "Western Command",
+        "ulbGrade": "Cantonment Board",
+        "longitude": 77.1258,
+        "latitude": 28.595818,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "276403",
+        "regionCode": "5",
+        "municipalityName": "Delhi Cantonment Board",
+        "population":"110351"
+      },
+      "address": "Office of Cantonment Board, Sadar Bazar, Delhi Cantt-10",
+      "contactNumber": "011- 25693837,25695450 (Ext.)"
+    },
+    {
+      "code": "cb.lucknow",
+      "name": "Cantonment Board Lucknow",
+      "description": "Lucknow",
+      "logoId": "http://www.cblucknow.org.in/images/right_logo.png",
+      "imageId": null,
+      "domainUrl": "http://www.cblucknow.org.in",
+      "type": "CITY",
+      "twitterUrl": "https://twitter.com/cblucknow",
+      "facebookUrl": "https://www.facebook.com/Lucknow-Cantonment-Board-409601926156503/",
+      "emailId": "ceoluck-stats@nic.in",
+      "OfficeTimings": {
+      },
+      "city": {
+        "name": "Lucknow",
+        "localName": "Lucknow Cantt",
+        "districtCode": "162",
+        "districtName": "Lucknow",
+        "regionName": "Central Command",
+        "ulbGrade": "Cantonment Board",
+        "longitude": 80.948506,
+        "latitude": 26.813393,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "277269",
+        "regionCode": "4",
+        "municipalityName": "Lucknow Cantonment Board",
+        "population":"63003"
+      },
+      "address": "Office of the Cantonment Board Lucknow 31, Nehru Road, Lucknow Cantt Dist- Lucknow ,Uttar Pradesh Pin Code- 226002",
+      "contactNumber": "0522-2480037(O) 0522-2480610(F)"
+    },
+    {
+      "code": "cb.pune",
+      "name": "Cantonment Board Pune",
+      "description": "Pune",
+      "logoId": "https://www.punecantonmentboard.org/PCBLogo.jpg",
+      "imageId": null,
+      "domainUrl": "https://www.punecantonmentboard.org/",
+      "type": "CITY",
+      "twitterUrl": "https://twitter.com/ceo_pune",
+      "facebookUrl": null,
+      "emailId": "ceopune-stats@nic.in",
+      "OfficeTimings": {
+      },
+      "city": {
+        "name": "Pune",
+        "localName": "Pune Cantt",
+        "districtCode": "490",
+        "districtName": "Pune",
+        "regionName": "Southern Command",
+        "ulbGrade": "Cantonment Board",
+        "longitude": 73.890061,
+        "latitude": 18.50023,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "277298",
+        "regionCode": "7",
+        "municipalityName": "Pune Cantonment Board",
+        "population":"71831"
+      },
+      "address": "Golibar Maidan, Pune Solpaur Road Pune 411001",
+      "contactNumber": "020-26452159"
+    },
+    {
+      "code": "cb.secunderabad",
+      "name": "Cantonment Board Secunderabad",
+      "description": "Secunderabad",
+      "logoId": "https://scb.gov.in/SCBPortal/SCBHomePage.aspx",
+      "imageId": null,
+      "domainUrl": "scb.gov.in",
+      "type": "CITY",
+      "twitterUrl": "https://twitter.com/secbadcantt",
+      "facebookUrl": null,
+      "emailId": "ceosecu-stats@nic.in",
+      "OfficeTimings": {
+        
+      },
+      "city": {
+        "name": "Secunderabad",
+        "localName": "Secunderabad Cantt",
+        "districtCode": "507",
+        "districtName": "Hyderabad",
+        "regionName": "Southern Command",
+        "ulbGrade": "Cantonment Board ",
+        "longitude": 78.500797,
+        "latitude": 17.444079,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "248471",
+        "regionCode": "7",
+        "municipalityName": "Secunderabad Cantonment Board"
+      },
+      "address": "Office of the Cantonment Board Secunderabad, Court Compound, SP Road, Telangana 500003",
+      "contactNumber": "040-27808600"
+    }
+  ]
+}

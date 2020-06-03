@@ -1,0 +1,526 @@
+{
+  "tenantId": "cb.secunderabad",
+  "moduleName": "TradeLicense",
+   "TradeType": [
+    {
+      "code": "TRADE.HOTEL.A1",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.HOTEL.A2",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.HOTEL.A3",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.HOTEL.A4",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.HOTEL.A5",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.HOTEL.A6",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.HOTEL.A7",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.HOTEL.A8",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.MEDICAL.B1",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.MEDICAL.B2",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.MEDICAL.B3",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.MEDICAL.B4",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.MEDICAL.B5",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.VETERINARY.C1",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.VETERINARY.C2",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.VETERINARY.C3",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.VETERINARY.C4",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.VETERINARY.C5",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.VETERINARY.C6",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.OFFENSIVE.D1",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.OFFENSIVE.D2",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.OFFENSIVE.D3",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.GENERAL.E1",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.GENERAL.E2",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.GENERAL.E3",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.GENERAL.E4",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.GENERAL.E5",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.GENERAL.E6",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.GENERAL.E7",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.GENERAL.E8",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.GENERAL.E9",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.GENERAL.E10",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.GENERAL.E11",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.GENERAL.E12",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.GENERAL.E13",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.GENERAL.E14",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.GENERAL.E15",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.GENERAL.E16",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.GENERAL.E17",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.GENERAL.E18",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.GENERAL.E19",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.GENERAL.E20",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.GENERAL.E21",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.GENERAL.E22",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.GENERAL.E23",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.GENERAL.E24",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.GENERAL.E25",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.GENERAL.E26",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.GENERAL.E27",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.GENERAL.E28",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.GENERAL.E29",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+{
+      "code": "TRADE.GENERAL.E30",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    }
+	]
+   }
