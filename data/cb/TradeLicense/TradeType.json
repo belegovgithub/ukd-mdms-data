@@ -125,9 +125,7 @@
 {
       "code": "TRADE.MEDICAL.B5",
       "uom": null,
-      "applicationDocument": [
-        "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
-      ],
+      "applicationDocument": [],
       "verificationDocument": [],
       "active": true,
       "type": "TL"
