@@ -5756,12 +5756,7 @@
       "actioncode": "",
       "tenantId": "cb"
     },
-    {
-      "rolecode": "DATAENTRY_ADMIN",
-      "actionid": 1843,
-      "actioncode": "",
-      "tenantId": "cb"
-    },    {
+	{
       "rolecode": "STADMIN",
       "actionid": 1844,
       "actioncode": "",
@@ -6108,12 +6103,6 @@
     "actionid": 1889,
     "actioncode": "",
     "tenantId": "cb"
-   },
-   {
-      "rolecode": "TL_CEMP",
-      "actionid": 1890,
-      "actioncode": "",
-      "tenantId": "cb"
-    }
+   }
   ]
 }
