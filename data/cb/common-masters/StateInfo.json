@@ -5,8 +5,8 @@
     {
       "name": "Cantonment Board",
       "code": "cb",
-      "bannerUrl": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/Stateimages/banner.png",
-      "logoUrl": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/Stateimages/logo.png",
+      "bannerUrl": "https://raw.githubusercontent.com/belegovgithub/ukd-mdms-data/UAT/data/cb/images/banner(1280x796).png",
+      "logoUrl": "https://raw.githubusercontent.com/belegovgithub/ukd-mdms-data/UAT/data/cb/images/e-chawani.png",
       "hasLocalisation": true,
       "hideDigitLogo": true,
       "defaultLanguage": "hi_IN",
