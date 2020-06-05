@@ -1,9 +1,9 @@
 {
-  "tenantId": "cb.secunderabad",
+  "tenantId": "cb",
   "moduleName": "TradeLicense",
    "TradeType": [
     {
-      "code": "TRADE.HOTEL.A1",
+      "code": "TRADE.EATING.A1",
       "uom": null,
       "applicationDocument": [
         "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
@@ -13,7 +13,7 @@
       "type": "TL"
     },
 {
-      "code": "TRADE.HOTEL.A2",
+      "code": "TRADE.EATING.A2",
       "uom": null,
       "applicationDocument": [
         "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
@@ -23,7 +23,7 @@
       "type": "TL"
     },
 {
-      "code": "TRADE.HOTEL.A3",
+      "code": "TRADE.EATING.A3",
       "uom": null,
       "applicationDocument": [
         "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
@@ -33,7 +33,7 @@
       "type": "TL"
     },
 {
-      "code": "TRADE.HOTEL.A4",
+      "code": "TRADE.EATING.A4",
       "uom": null,
       "applicationDocument": [
         "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
@@ -43,7 +43,7 @@
       "type": "TL"
     },
 {
-      "code": "TRADE.HOTEL.A5",
+      "code": "TRADE.EATING.A5",
       "uom": null,
       "applicationDocument": [
         "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
@@ -53,7 +53,7 @@
       "type": "TL"
     },
 {
-      "code": "TRADE.HOTEL.A6",
+      "code": "TRADE.EATING.A6",
       "uom": null,
       "applicationDocument": [
         "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
@@ -63,7 +63,7 @@
       "type": "TL"
     },
 {
-      "code": "TRADE.HOTEL.A7",
+      "code": "TRADE.EATING.A7",
       "uom": null,
       "applicationDocument": [
         "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
@@ -73,7 +73,7 @@
       "type": "TL"
     },
 {
-      "code": "TRADE.HOTEL.A8",
+      "code": "TRADE.EATING.A8",
       "uom": null,
       "applicationDocument": [
         "AADPANCARD","REGCERT","DEED","PTAX","BLUPRNT","NBNOC","PLANCERT","BULDPHOTO"
