@@ -22,7 +22,29 @@
           "code": "cb.secunderabad"
         }
       ]
-    },    
+    },
+    {
+      "module": "PT",
+      "code": "PT",
+      "tenants": [
+        {
+          "code": "cb.agra"
+        },
+        {
+          "code": "cb.lucknow"
+        },
+        {
+          "code": "cb.delhi"
+        },
+        {
+          "code": "cb.pune"
+        },
+        {
+          "code": "cb.secunderabad"
+        }
+       
+      ]
+    },
     {
       "module": "UC",
       "code": "UC",
